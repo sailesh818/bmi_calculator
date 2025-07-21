@@ -1,4 +1,4 @@
-# BMI Calculator with Streamlit 
+# BMI Calculator & Iris flower Classifier with Streamlit 
 
 A simple and interactive **BMI (Body Mass Index)** calculator built using **Python** and **Streamlit**.
 
